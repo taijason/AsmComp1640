@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Http",
+    "\\app\\Http\\Middleware",
+    "\\app\\Models",
+    "\\app\\Providers",
+    "\\public",
+    "\\public\\assets",
+    "\\public\\assets\\images",
+    "\\public\\assets\\images\\products",
+    "\\public\\assets\\more-slider"
+  ],
+  "SelectedNode": "\\resources\\views\\list2.blade.php",
+  "PreviewInSolutionExplorer": false
+}
